@@ -1,6 +1,15 @@
 # Advanced_sensor_course_CVUT
 B222-E141030 - Sensor systems - lab sessions for students - spring 22/23
 
+Lab1:
+Algorithms 
+•	Sending and reading data with MQTT.
+•	Online calculation of average and variance.
+•	Confidence-Weighted Averaging from more than 2 sensors.
+•	Voting from more sensor data: Exact majority voter , Formalized majority voter, Weighted average voter.
+•	Amplitude and time thresholding.
+•	Complementary filter (orientation measurement on drone frame)
+
 Lab4:
 This lab concerns the problem of applying a Kalman filter to a variety of measurements.
 The measurements are numerical data that has been recorded over time in order to

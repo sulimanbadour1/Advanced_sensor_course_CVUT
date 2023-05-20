@@ -28,5 +28,4 @@ Image processing lab contains:
   
   
   
-  ![Alt text](Lab5_image/1.PNG "Flow diagram for vehicle number plate recognition system")
 

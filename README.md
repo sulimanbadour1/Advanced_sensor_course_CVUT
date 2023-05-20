@@ -16,5 +16,5 @@ Image processing lab contains:
   4- Car Detection.
   
   
-  ![Alt text](/posts/path/to/img.jpg "Optional title")
+  ![Alt text](Lab5_image/1.PNG "Flow diagram for vehicle number plate recognition system")
 

@@ -17,4 +17,4 @@ Image processing lab contains:
   
   
   
-  ![alt text](http://url/to/img.png)
+  ![alt text]([http://url/to/img.png](https://github.com/sulimanbadour1/Advanced_sensor_course_CVUT/blob/main/Lab5_image/1.PNG?raw=true))

@@ -16,5 +16,5 @@ Image processing lab contains:
   4- Car Detection.
   
   
-  
-  ![alt text]([http://url/to/img.png](https://github.com/sulimanbadour1/Advanced_sensor_course_CVUT/blob/main/Lab5_image/1.PNG?raw=true))
+  ![Alt text](/posts/path/to/img.jpg "Optional title")
+

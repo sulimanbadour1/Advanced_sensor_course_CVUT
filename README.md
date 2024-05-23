@@ -6,7 +6,7 @@ Algorithms
 •	Sending and reading data with MQTT.
 •	Online calculation of average and variance.
 •	Confidence-Weighted Averaging from more than 2 sensors.
-•	Voting from more sensor data: Exact majority voter , Formalized majority voter, Weighted average voter.
+•	Voting from more sensor data: Exact majority voter, Formalized majority voter, Weighted average voter.
 •	Amplitude and time thresholding.
 •	Complementary filter (orientation measurement on drone frame)
 
@@ -23,7 +23,9 @@ Image processing lab contains:
   2-  Vehicle Number Plate Recognition System.
   3- Multiple Face Detection System using webcam live.
   4- Car Detection.
-  
+
+
+Lab 6: Water circuit simulations
   
   
   
